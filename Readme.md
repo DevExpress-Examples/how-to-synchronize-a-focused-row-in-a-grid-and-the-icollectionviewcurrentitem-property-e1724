@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Window1.xaml](./CS/E1724/Window1.xaml) (VB: [Window1.xaml](./VB/E1724/Window1.xaml))
-* [Window1.xaml.cs](./CS/E1724/Window1.xaml.cs) (VB: [Window1.xaml](./VB/E1724/Window1.xaml))
+* [Window1.xaml.cs](./CS/E1724/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/E1724/Window1.xaml.vb))
 <!-- default file list end -->
 # How to Synchronize a Focused Row in a Grid and the ICollectionView.CurrentItem property
 
